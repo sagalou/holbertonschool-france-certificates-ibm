@@ -1,91 +1,56 @@
-# 🎓 IBM Certifications — Holberton France
+# 🎓 Holberton School France — IBM Certificates
 
 <div align="center">
 
-![IBM](https://img.shields.io/badge/IBM-SkillsBuild-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
-![Holberton](https://img.shields.io/badge/Holberton-France-FF0000?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Completed-00C851?style=for-the-badge)
+[![Holberton School](https://img.shields.io/badge/Holberton-School-red?style=for-the-badge&logo=holberton&logoColor=white)](https://www.holbertonschool.fr/)
+[![IBM](https://img.shields.io/badge/IBM-Certificates-054ADA?style=for-the-badge&logo=ibm&logoColor=white)](https://skillsbuild.org)
+[![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge)](https://github.com/sagalou/holbertonschool-france-certificates-ibm)
 
-*Certifications obtenues dans le cadre du partenariat **Holberton France × IBM***
+*A collection of IBM certificates earned during the Holberton School France curriculum.*
 
 </div>
 
 ---
 
-## 📁 Structure du repository
+## 📚 Table of Contents
 
-```
-holbertonschool-france-certificates-ibm/
-└── certificates-trimester-1/
-    ├── certificate-oss        # Introduction to Open Source
-    └── certificate-agile      # Agile Explorer
-```
+- [🎯 Trimester 1](#-trimester-1)
+- [📊 Progress Overview](#-progress-overview)
+- [📫 Contact](#-contact)
 
 ---
 
-## 📜 Trimestre 1 — Certifications obtenues
+## 🎯 Trimester 1
 
-### 🔵 Agile Explorer — Powered by Agile at IBM
-
-<div align="center">
-  <img src="certificates-trimester-1/certificate-agile.png" alt="Agile Explorer Certificate" width="400"/>
-</div>
-
-| | |
-|---|---|
-| **Plateforme** | IBM SkillsBuild |
-| **Niveau** | Foundational |
-| **Durée estimée** | ~4 journées |
-| **Prérequis** | Aucun |
-
-**Compétences acquises :**
-- ✅ Méthodologie Agile et ses principes fondamentaux
-- ✅ Pratiques Agile (Kanban, itérations, stand-ups, retrospectives)
-- ✅ Patterns opérationnels et de programme
-- ✅ Application de l'agilité en environnement de travail
-- ✅ Rôles au sein d'une équipe Agile (Product Owner, Iteration Manager, SME...)
-
----
-
-### 🟢 Open Source Foundations — IBM Skills Network
-
-<div align="center">
-  <img src="certificates-trimester-1/certificate-oss.png" alt="Open Source Foundations Certificate" width="400"/>
-</div>
-
-| | |
-|---|---|
-| **Plateforme** | IBM Skills Network |
-| **Niveau** | Foundational |
-| **Durée estimée** | ~4 heures |
-| **Prérequis** | Aucun |
-
-**Compétences acquises :**
-- ✅ Comprendre ce qu'est l'Open Source Software (OSS)
-- ✅ Choisir et contribuer à un projet open source
-- ✅ Outils de collaboration (GitHub, etc.)
-- ✅ Licences et gouvernance open source
-- ✅ Bonnes pratiques de contribution
-
----
-
-## 🏆 Récapitulatif
-
-| Certificat | Plateforme | Trimestre | Statut |
+| Certificate | Platform | Skills | Preview |
 |---|---|---|---|
-| Agile Explorer | IBM SkillsBuild | Trimestre 1 | ✅ Obtenu |
-| Open Source Foundations | IBM Skills Network | Trimestre 1 | ✅ Obtenu |
+| **Agile Explorer** | IBM SkillsBuild | • Agile Methodology • Scrum Framework • Sprint Planning • Kanban • Team Roles | <img src="certificates-trimester-1/certificate-agile.png" width="120"/> |
+| **Open Source Foundations** | IBM Skills Network | • Open Source Principles • Community Collaboration • Licensing • GitHub Basics • Best Practices | <img src="certificates-trimester-1/certificate-oss.png" width="120"/> |
 
 ---
 
-## ℹ️ À propos
+## 📊 Progress Overview
 
-Ces certifications ont été obtenues dans le cadre du **partenariat Holberton France × IBM**, qui offre aux étudiants un accès à la plateforme d'e-learning IBM SkillsBuild pour acquérir des compétences techniques reconnues dans l'industrie.
+| Category | Completed | In Progress | Total |
+|---|---|---|---|
+| **Trimester 1** | 2 | 0 | 2 |
+| **Total** | **2** | **0** | **2** |
+
+---
+
+## 📫 Contact
+
+**Sagal-Louise HAIDER**
+
+[![GitHub](https://img.shields.io/badge/GitHub-sagalou-181717?style=for-the-badge&logo=github)](https://github.com/sagalou)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sagal--Louise%20Haider-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sagal-louise-haider-896a06204/)
+
+---
 
 <div align="center">
 
----
+*Last updated: April 2026*
 
-*Made with ❤️ at Holberton France*
+**Made with ❤️ by Sagal-Louise HAIDER**
 
 </div>
