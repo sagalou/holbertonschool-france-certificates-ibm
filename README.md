@@ -15,6 +15,7 @@
 ## 📚 Table of Contents
 
 - [🎯 Trimester 1](#-trimester-1)
+- [🎯 Trimester 2](#-trimester-2)
 - [📊 Progress Overview](#-progress-overview)
 - [📫 Contact](#-contact)
 
@@ -29,12 +30,22 @@
 
 ---
 
+## 🎯 Trimester 2
+
+| Certificate | Platform | Skills | Preview |
+|---|---|---|---|
+| **Project Management Fundamentals** | IBM SkillsBuild | • Project Management Lifecycle • Change Management • Risk Management • Stakeholder Management • Cost Estimation • Scheduling | <img src="certificates-trimester-2/certificate-project-management.png" width="120"/> |
+| **SQL and Relational Databases** | IBM Skills Network | • SQL Fundamentals • Relational Database Design • CRUD Operations • Joins • Data Querying | [📄 View PDF](certificates-trimester-2/certificate-sql.pdf) |
+
+---
+
 ## 📊 Progress Overview
 
 | Category | Completed | In Progress | Total |
 |---|---|---|---|
 | **Trimester 1** | 2 | 0 | 2 |
-| **Total** | **2** | **0** | **2** |
+| **Trimester 2** | 2 | 0 | 2 |
+| **Total** | **4** | **0** | **4** |
 
 ---
 
@@ -49,7 +60,7 @@
 
 <div align="center">
 
-*Last updated: April 2026*
+*Last updated: July 2026*
 
 **Made with ❤️ by Sagal-Louise HAIDER**
 
